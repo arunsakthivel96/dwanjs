@@ -1,0 +1,24 @@
+{
+  "name": "dwanjs",
+  "version": "1.0.0",
+  "description": "Some sample framework which is used to build the typescript,Expressjs based api or microservice. In this we warpped the expressjs and it's base module",
+  "main": "index.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "dwanjs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arunsakthivel96/dwanjs.git"
+  },
+  "author": "Arun Kumar Sakthivel",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
+  "dependencies": {
+    "reflect-metadata": "^0.1.13"
+  }
+}

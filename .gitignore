@@ -1,0 +1,9 @@
+.dccache
+*alet.js
+test.*
+code/**
+*node_modules/**
+dwanjs-*.tgz
+.paths
+tester.js
+package-lock.json

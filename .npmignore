@@ -1,0 +1,13 @@
+.dccache
+.gitignore
+*alet.js
+test.*
+code/**
+*node_modules/**
+dwanjs-*.tgz
+.paths
+.github/**
+tester.js
+*__tests__/**
+package-lock.json
+*images/**
