@@ -1,6 +1,7 @@
-import {Routes} from '../index'
-import 'jest'
+import {describe, expect, test} from '@jest/globals';
 
-test("Dummy Test",()=>{
-
+describe('sum module', () => {
+  test('adds 1 + 2 to equal 3', () => {
+    expect(1+2).toBe(3);
+  });
 });

@@ -11,3 +11,5 @@ tester.js
 *__tests__/**
 package-lock.json
 *images/**
+babel.config.js
+jest.config.ts
