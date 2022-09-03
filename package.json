@@ -1,6 +1,6 @@
 {
   "name": "dwanjs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Some sample framework which is used to build the typescript,Expressjs based api or microservice. In this we warpped the expressjs and it's base module",
   "main": "index.ts",
   "scripts": {
